@@ -12,7 +12,7 @@ body {
     text-align: center;
 }
 
-/*Header style*/
+/* Header style */
 
 .header {
     display: flex;
@@ -34,7 +34,7 @@ h2 {
     margin-right: 10px;
 }
 
-/*Cards container style*/
+/* Cards container style */
 
 .grid {
     display: flex;
@@ -56,7 +56,7 @@ h2 {
     top: -10px;
 }
 
-/*For smartphones*/
+/* For smartphones */
 
 @media(max-width: 1000px) {
     body img {
