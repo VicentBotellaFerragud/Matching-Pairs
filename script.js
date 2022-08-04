@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (cardsWon.length === cardArray.length / 2) {
 
       //Then the player has won the game*.
-      resultDisplay.textContent = `You found them all!`;
+      resultDisplay.textContent = `You found them all! Refresh the page if you want to play again :)`;
 
       /**
        * *This is because each pair of cards stored in the cardsWon array counts as a single element, as opposed to the cardArray array,
